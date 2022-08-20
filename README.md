@@ -1,1 +1,1 @@
-# sim-team-helper-
+# sim-team-helper
